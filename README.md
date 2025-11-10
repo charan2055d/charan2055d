@@ -1,7 +1,7 @@
 
-# Hi, I'm Venkata Sai Charan 👋
+# Hi, I'm Narupalli Venkata Sai Charan reddy 👋
 
-I'm a student at IIT Dharwad learning AI step by step and building skills to become an LLM + RAG + Generative AI engineer.
+I'm a 1-st year EEE student at IIT Dharwad learning AI step by step and building skills to become an LLM + RAG + Generative AI engineer.
 
 ### 🚀 What I'm doing right now
 - Learning Python deeply  
@@ -27,6 +27,6 @@ Become a highly skilled engineer working on:
 Python | NumPy | Pandas | Matplotlib | Git | ML | DL | Transformers | HuggingFace | RAG | FastAPI | Docker
 
 ### 📬 Connect with me
-(Will add LinkedIn + Portfolio in 3rd year)
+LinkedIn and Portfolio coming soon.
 
 Building step by step. 🚀
